@@ -12,7 +12,9 @@ class ViewController: UIViewController {
 
     @IBAction func btnclick(_ sender: Any) {
         
-            print("ROnit")
+            xyz()
+        
+        
             }
     
     func xyz(){
