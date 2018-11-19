@@ -12,10 +12,17 @@ class ViewController: UIViewController {
 
     @IBAction func btnclick(_ sender: Any) {
         
-        print("Saharsh1")
+            print("ROnit")
             }
+    
+    func xyz(){
+        
+        print("xyz")
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
+        xyz()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
