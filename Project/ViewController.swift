@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBAction func btnclick(_ sender: Any) {
         
-        print("Success")
+        print("error")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
