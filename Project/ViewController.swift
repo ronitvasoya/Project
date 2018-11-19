@@ -14,8 +14,15 @@ class ViewController: UIViewController {
         
             print("ROnit")
             }
+    
+    func xyz(){
+        
+        print("xyz")
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
+        xyz()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
