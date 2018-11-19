@@ -12,9 +12,8 @@ class ViewController: UIViewController {
 
     @IBAction func btnclick(_ sender: Any) {
         
-        print("error")
-        print("Ronit")
-    }
+        print("Saharsh1")
+            }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
