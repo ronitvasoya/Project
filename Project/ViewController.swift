@@ -11,10 +11,9 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func btnclick(_ sender: Any) {
-        
-            xyz()
-        
-        
+            print("Hello")
+            print("hii")
+            print("Hi")
             }
     
     func xyz(){
