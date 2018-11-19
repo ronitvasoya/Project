@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func btnclick(_ sender: Any) {
+        
+        print("Success")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
