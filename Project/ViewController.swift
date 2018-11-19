@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBAction func btnclick(_ sender: Any) {
         
         print("error")
+        print("Ronit")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
